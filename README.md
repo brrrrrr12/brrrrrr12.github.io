@@ -9,32 +9,32 @@ This section contains documents organized by year.
 
 
 
-###Témák elhelyezkedése és megoszlása 2010 és 2020 között egyes portálokon
+### Témák elhelyezkedése és megoszlása 2010 és 2020 között egyes portálokon
 ## Az egyes körök azt mutatják, mekkora egy téma, elhelyezkedésük az egymástól való messzeségüket. A jobboldalon az első 30 legkifejezőbb szó látható. 
-# interaktív felületért katt a képre!
+#interaktív felületért katt a képre!
 
 <table>
   <tr>
     <td>
       <a href="./444_2010-2019_teljes_kopusz.html">
-        <img src="./444_10_20.png" alt="444" width="100" height="100">
+        <img src="./444_10_20.png" alt="444" width="300" height="300">
       </a>
     </td>
     <td>
       <a href="./index_2010-2019_teljes_kopusz.html">
-        <img src="./INDEX_10_20.png" alt="INDEX" width="100" height="100">
+        <img src="./INDEX_10_20.png" alt="INDEX" width="300" height="300">
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="./mandiner_2010-2019_teljes_kopusz.html">
-        <img src="./MANDINER_10_20.png" alt="MANDINER" width="100" height="100">
+        <img src="./mandiner_10_20.png" alt="MANDINER" width="300" height="300">
       </a>
     </td>
     <td>
       <a href="./index_2010-2019_teljes_kopusz.html">
-        <img src="./INDEX_10_20.png" alt="INDEX" width="100" height="100">
+        <img src="./INDEX_10_20.png" alt="INDEX" width="300" height="300">
       </a>
     </td>
   </tr>
