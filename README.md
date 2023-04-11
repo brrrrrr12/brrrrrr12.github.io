@@ -15,7 +15,7 @@ This section contains documents organized by year.
 
 # egymás mellett
 
-<table style="border-collapse: separate; border-spacing: 10px; padding: 10px;">
+<table style="border-collapse: separate; border-spacing: 55px; padding: 55px;">
   <tr>
     <td>
       <a href="./444_2010-2019_teljes_kopusz.html">
