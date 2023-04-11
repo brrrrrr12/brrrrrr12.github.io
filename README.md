@@ -62,4 +62,4 @@ This section shows the distribution of topics on government-affiliated and non-g
 
 
 - [![Kormányközeli portálok](./Origo_Mandiner_10-20.png)](./Origo_Mandiner_2010-2019_teljes_kopusz.html)
-- [![Nem kormányközeli portálok]./444_Index_10-20.png)](./444_Index_2010-2019_teljes_kopusz.html)
+- [![Nem kormányközeli portálok](./444_Index_10-20.png)](./444_Index_2010-2019_teljes_kopusz.html)
