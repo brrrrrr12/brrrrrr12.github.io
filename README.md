@@ -14,6 +14,7 @@ This section contains documents organized by year.
 This section shows the distribution of topics on different portals between 2010 and 2020.
 
 - [444](./444_2010-2019_teljes_kopusz.html)
+- [![444_10_20](./444_10_20.png)](./444_2010-2019_teljes_kopusz.html)
 - [Index](./index_2010-2019_teljes_kopusz.html)
 - [Mandiner](./mandinder_2010-2019_teljes_kopusz.html)
 - [Origo](./origo_2010-2019_teljes_kopusz.html)
