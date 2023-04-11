@@ -16,7 +16,7 @@ This section shows the distribution of topics on different portals between 2010 
 - [Portal 1](https://github.com/brrrrrr12/brrrrrr12.github.io/blob/main/444_2010-2019_teljes_kopusz.htmll)
 - [Portal 2](brrrrrr12.github.io/index_2010-2019_teljes_kopusz.html)
 - [Portal 3](.mandinder_2010-2019_teljes_kopusz.html)
-- [Portal 4](.origo_2010-2019_teljes_kopusz.html)
+- [Portal 4](./origo_2010-2019_teljes_kopusz.html)
 
 ## Témák megoszlása kormányközeli és nem kormányközeli portálokon
 
