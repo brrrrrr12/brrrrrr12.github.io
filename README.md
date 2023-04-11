@@ -14,7 +14,7 @@ This section contains documents organized by year.
 This section shows the distribution of topics on different portals between 2010 and 2020.
 
 - [Portal 1](https://github.com/brrrrrr12/brrrrrr12.github.io/blob/main/444_2010-2019_teljes_kopusz.htmll)
-- [Portal 2](.index_2010-2019_teljes_kopusz.html)
+- [Portal 2](brrrrrr12.github.io/index_2010-2019_teljes_kopusz.html)
 - [Portal 3](.mandinder_2010-2019_teljes_kopusz.html)
 - [Portal 4](.origo_2010-2019_teljes_kopusz.html)
 
