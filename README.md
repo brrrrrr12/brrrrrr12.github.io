@@ -13,7 +13,9 @@ This section contains documents organized by year.
 ## Az egyes körök azt mutatják, mekkora egy téma, elhelyezkedésük az egymástól való messzeségüket. A jobboldalon az első 30 legkifejezőbb szó látható. 
 #interaktív felületért katt a képre!
 
-<table>
+# egymás mellett
+
+<table style="border-collapse: separate; border-spacing: 10px; padding: 10px;">
   <tr>
     <td>
       <a href="./444_2010-2019_teljes_kopusz.html">
@@ -43,6 +45,8 @@ This section contains documents organized by year.
 
 This section shows the distribution of topics on different portals between 2010 and 2020.
 
+Egymás után
+
 - [444](./444_2010-2019_teljes_kopusz.html)
 - [![444_10_20](./444_10_20.png)](./444_2010-2019_teljes_kopusz.html)
 - [Index](./index_2010-2019_teljes_kopusz.html)
@@ -56,5 +60,6 @@ This section shows the distribution of topics on different portals between 2010 
 
 This section shows the distribution of topics on government-affiliated and non-government-affiliated portals.
 
-- [Government-affiliated Portals](/.Origo_Mandiner_2010-2019_teljes_kopusz.html)
-- [Non-government-affiliated Portals](/.444_Index_2010-2019_teljes_kopusz.html)
+
+- [![Kormányközeli portálok](./Origo_Mandiner_10-20.png)](./Origo_Mandiner_2010-2019_teljes_kopusz.html)
+- [![Nem kormányközeli portálok]./444_Index_10-20.png)](./444_Index_2010-2019_teljes_kopusz.html)
