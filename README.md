@@ -52,7 +52,7 @@ Egymás után
 - [Index](./index_2010-2019_teljes_kopusz.html)
 - [![INDEX_10_20](./INDEX_10_20.png)](./index_2010-2019_teljes_kopusz.html)
 - [Mandiner](./mandinder_2010-2019_teljes_kopusz.html)
-- [![mandiner_10_20](./mandiner_10_20.png)](./mandiner_2010-2019_teljes_kopusz.html)
+- [![mandiner_10_20](./mandiner_10_20.png)](./mandinder_2010-2019_teljes_kopusz.html)
 - [Origo](./origo_2010-2019_teljes_kopusz.html)
 - [![ORIGO_10_20](./ORIGO_10_20.png)](./index_2010-2019_teljes_kopusz.html)
 
