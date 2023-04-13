@@ -4,7 +4,8 @@ This page contains information and data related to various topics.
 
 ## Elért dokumentumok évenként
 
-This section contains documents organized by year.
+        <img src="./elert_cikkek_evenkent és portalonként.png" alt="elert cikkek" width="300" height="300">
+
 
 
 
@@ -13,7 +14,7 @@ This section contains documents organized by year.
 ## Az egyes körök azt mutatják, mekkora egy téma, elhelyezkedésük az egymástól való messzeségüket. A jobboldalon az első 30 legkifejezőbb szó látható. 
 #interaktív felületért katt a képre!
 
-# egymás mellett
+#  egyes portálok témamegoszlása 2010 és 2020 között egymás mellett
 
 <table style="border-collapse: separate; border-spacing: 55px; padding: 55px;">
   <tr>
@@ -42,9 +43,7 @@ This section contains documents organized by year.
   </tr>
 </table>
 
-
-This section shows the distribution of topics on different portals between 2010 and 2020.
-
+# egyes portálok témamegoszlása 2010 és 2020 között egymás után
 Egymás után
 
 - [444](./444_2010-2019_teljes_kopusz.html)
@@ -54,12 +53,11 @@ Egymás után
 - [Mandiner](./mandinder_2010-2019_teljes_kopusz.html)
 - [![mandiner_10_20](./mandiner_10_20.png)](./mandinder_2010-2019_teljes_kopusz.html)
 - [Origo](./origo_2010-2019_teljes_kopusz.html)
-- [![ORIGO_10_20](./ORIGO_10_20.png)](./index_2010-2019_teljes_kopusz.html)
+- [![ORIGO_10_20](./ORIGO_10_20.png)](./origo_2010-2019_teljes_kopusz.html)
 
 ## Témák megoszlása kormányközeli és nem kormányközeli portálokon
 
-This section shows the distribution of topics on government-affiliated and non-government-affiliated portals.
-
-
+Origo és mandiner
 - [![Kormányközeli portálok](./Origo_Mandiner_10-20.png)](./Origo_Mandiner_2010-2019_teljes_kopusz.html)
+444 és index
 - [![Nem kormányközeli portálok](./444_Index_10-20.png)](./444_Index_2010-2019_teljes_kopusz.html)
