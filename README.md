@@ -14,41 +14,10 @@ This page contains information and data related to various topics.
 
 
 
-## Témák elhelyezkedése és megoszlása 2010 és 2020 között egyes portálokon
-### Az egyes körök azt mutatják, mekkora egy téma, elhelyezkedésük az egymástól való messzeségüket. Jobboldalon az első 30 legkifejezőbb szó látható. 
+#Az egyes körök azt mutatják, mekkora egy téma, elhelyezkedésük az egymástól való messzeségüket. Jobboldalon az első 30 legkifejezőbb szó látható. 
 #interaktív felületért katt a képre!
 
-#  egyes portálok témamegoszlása 2010 és 2020 között egymás mellett
-
-<table style="border-collapse: separate; border-spacing: 55px; padding: 55px;">
-  <tr>
-    <td>
-      <a href="./444_2010-2019_teljes_kopusz.html">
-        <img src="./444_10_20.png" alt="444" width="300" height="300">
-      </a>
-    </td>
-    <td>
-      <a href="./index_2010-2019_teljes_kopusz.html">
-        <img src="./INDEX_10_20.png" alt="INDEX" width="300" height="300">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="./mandiner_2010-2019_teljes_kopusz.html">
-        <img src="./mandiner_10_20.png" alt="MANDINER" width="300" height="300">
-      </a>
-    </td>
-    <td>
-      <a href="./index_2010-2019_teljes_kopusz.html">
-        <img src="./INDEX_10_20.png" alt="INDEX" width="300" height="300">
-      </a>
-    </td>
-  </tr>
-</table>
-
-# egyes portálok témamegoszlása 2010 és 2020 között egymás után
-Egymás után
+## Témák elhelyezkedése és megoszlása 2010 és 2020 között egyes portálokon
 
 - [444](./444_2010-2019_teljes_kopusz.html)
 - [![444_10_20](./444_10_20.png)](./444_2010-2019_teljes_kopusz.html)
