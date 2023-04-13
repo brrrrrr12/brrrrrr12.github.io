@@ -4,9 +4,13 @@ This page contains information and data related to various topics.
 
 ## Elért dokumentumok évenként
 
+<table style="border-collapse: separate; border-spacing: 55px; padding: 55px;">
+  <tr>
+    <td>
         <img src="./elert_cikkek_evenkent és portalonként.png" alt="elert cikkek" width="300" height="300">
-
-
+    </td>
+   </tr>  
+</table>
 
 
 
