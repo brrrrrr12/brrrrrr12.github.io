@@ -14,8 +14,8 @@ This page contains information and data related to various topics.
 
 
 
-### Témák elhelyezkedése és megoszlása 2010 és 2020 között egyes portálokon
-## Az egyes körök azt mutatják, mekkora egy téma, elhelyezkedésük az egymástól való messzeségüket. A jobboldalon az első 30 legkifejezőbb szó látható. 
+##Témák elhelyezkedése és megoszlása 2010 és 2020 között egyes portálokon
+### Az egyes körök azt mutatják, mekkora egy téma, elhelyezkedésük az egymástól való messzeségüket. Jobboldalon az első 30 legkifejezőbb szó látható. 
 #interaktív felületért katt a képre!
 
 #  egyes portálok témamegoszlása 2010 és 2020 között egymás mellett
